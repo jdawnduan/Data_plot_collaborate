@@ -14,6 +14,7 @@ Build a PLOT project to automize generic data-processing workflow
 5. Echem - LSV (Linear Sweep Voltammetry) (.DTA)  **Line**
 6. Echem - EIS (electrochemical Impedance Spectroscopy) (.DTA) **Scatter**
 7. Echem - Tafel (convert to Tafel plot using LSV or CV and extract Tafel Slope) **Line**
+
 ...(waiting to be expanded)
 
 ## Current stage
