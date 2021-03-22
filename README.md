@@ -1,6 +1,6 @@
-# Data_plot_collaborate
+# Data_plot_collaborate (๑•̀ㅂ•́)و✧
 
-## This is a place for collaborative work (๑•̀ㅂ•́)و✧
+## This is a place for collaborative work
 Shared data plot codes and some sample file for a small group of people to practice processing and plotting data using pandas, python, matplotlib, etc. 
 
 ## AIM
