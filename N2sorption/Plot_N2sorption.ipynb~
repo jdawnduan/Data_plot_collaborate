@@ -12,7 +12,6 @@
     "- [x] customize output names to fileame + '.png'\n",
     "- [x] able to include BET SA on the isotherm plot\n",
     "- [x] feed in all the files in the same folder"
-    "- [ ] need to have **multiple** legend in the plot correspond to filename"
    ]
   },
   {
