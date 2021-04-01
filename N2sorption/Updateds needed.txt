@@ -1,0 +1,3 @@
+need to find another place to store the SA values
+Need to remove the box around PV legends
+need to have x and y labels in the combined graph
